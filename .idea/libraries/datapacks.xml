@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="datapacks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/saves/New World/datapacks/terralith-v2-2-1a.zip!/" />
+      <root url="jar://$PROJECT_DIR$/saves/New World/datapacks/incendium-v5-0-3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
