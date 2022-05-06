@@ -8,3 +8,14 @@
 /defaultconfigs/
 /.fabric/
 /.idea/
+/log4j2.xml
+/options.txt
+/realms_persistence.json
+/usercache.json
+/Venus.jar
+/Venus.json
+/CustomSkinLoader/caches/1297726b784e3b1bf3d89563c3582e413581d25a
+/CustomSkinLoader/caches/1297726b784e3b1bf3d89563c3582e413581d25a.json
+/CustomSkinLoader/CustomSkinAPIPlus-ClientID
+/CustomSkinLoader/CustomSkinLoader.log
+/CustomSkinLoader/FabricPlugin.log
