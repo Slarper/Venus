@@ -3,15 +3,15 @@
 		"favorites": [],
 		// Declares whether cheating mode is on.
 		"cheating": false,
-		"favoritesEnabled": true,
+		"favoritesEnabled": false,
 		"keyBindings": {
 			"recipeKeybind": {
 				"keyCode": "key.keyboard.r",
-				"modifier": 0
+				"modifier": 2
 			},
 			"usageKeybind": {
 				"keyCode": "key.keyboard.u",
-				"modifier": 0
+				"modifier": 2
 			},
 			"hideKeybind": {
 				"keyCode": "key.keyboard.o",
@@ -30,15 +30,15 @@
 				"modifier": 0
 			},
 			"copyRecipeIdentifierKeybind": {
-				"keyCode": "key.mouse.middle",
+				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
 			},
 			"favoriteKeybind": {
-				"keyCode": "key.keyboard.a",
+				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
 			},
 			"exportImageKeybind": {
-				"keyCode": "key.keyboard.f8",
+				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
 			},
 			"previousScreenKeybind": {
