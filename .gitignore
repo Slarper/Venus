@@ -9,7 +9,6 @@
 /.fabric/
 /.idea/
 /log4j2.xml
-/options.txt
 /realms_persistence.json
 /usercache.json
 /Venus.jar
