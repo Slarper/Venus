@@ -112,7 +112,7 @@ key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.autofish.open_gui:key.keyboard.v
 key_key.entityculling.toggle:key.keyboard.unknown
-key_Build Current Structure:key.keyboard.b
+key_Build Current Structure:key.keyboard.unknown
 key_presencefootsteps.settings.key:key.keyboard.f10
 key_key.push_to_talk:key.keyboard.c
 key_key.whisper:key.keyboard.unknown
