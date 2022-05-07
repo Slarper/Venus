@@ -124,6 +124,11 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+key_key.waila.config:key.keyboard.keypad.0
+key_key.waila.show_overlay:key.keyboard.keypad.1
+key_key.waila.toggle_liquid:key.keyboard.keypad.2
+key_key.waila.show_recipe_input:key.keyboard.keypad.3
+key_key.waila.show_recipe_output:key.keyboard.keypad.4
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
 key_gui.xaero_toggle_slime:key.keyboard.unknown
