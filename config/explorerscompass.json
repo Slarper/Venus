@@ -5,9 +5,9 @@
     "displayCoordinatesComment": "Allows players to view the precise coordinates and distance of a located structure on the HUD, rather than relying on the direction the compass is pointing.",
     "displayCoordinates": false,
     "maxRadiusComment": "The maximum radius that will be searched for a structure. Raising this value will increase search accuracy but will potentially make the process more resource intensive.",
-    "maxRadius": 5000,
+    "maxRadius": 1300,
     "maxSamplesComment": "The maximum number of samples to be taken when searching for a structure.",
-    "maxSamples": 5000,
+    "maxSamples": 10000,
     "structureBlacklistComment": "A list of structures that the compass will not be able to search for, specified by resource location. The wildcard character * can be used to match any number of characters, and ? can be used to match one character. Ex (ignore backslashes): [\"minecraft:stronghold\", \"minecraft:endcity\", \"minecraft:*village*\"]",
     "structureBlacklist": [
       "towers_of_the_wild_reworked:derelict",
@@ -152,7 +152,25 @@
       "terralith:zpointer/terralith_yosemite_lowlands",
       "minecraft:mansion",
       "terralith:glacial_hut",
-      "minecraft:swamp_hut"
+      "minecraft:swamp_hut",
+      "minecraft:desert_pyramid",
+      "minecraft:jungle_pyramid",
+      "terralith:fortified_desert_village",
+      "terralith:fortified_village",
+      "minecraft:monument",
+      "minecraft:ruined_portal_desert",
+      "minecraft:ruined_portal_jungle",
+      "minecraft:ruined_portal_mountain",
+      "minecraft:ruined_portal_nether",
+      "minecraft:ruined_portal_ocean",
+      "minecraft:ruined_portal_swamp",
+      "terralith:spire",
+      "minecraft:village_desert",
+      "minecraft:village_plains",
+      "minecraft:village_savanna",
+      "minecraft:village_snowy",
+      "minecraft:village_taiga",
+      "minecraft:end_city"
     ]
   },
   "client": {
