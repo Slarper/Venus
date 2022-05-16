@@ -168,7 +168,7 @@ optionsButton = true
 			# FOG_DISABLED: Always draw fast fog on the LODs 
 			#
 			# Disabling fog will improve GPU performance.
-			fogDrawMode = "FOG_ENABLED"
+			fogDrawMode = "FOG_DISABLED"
 			# If true disable Minecraft's fog. 
 			#
 			# Experimental! Mod support is not guarantee.
@@ -417,7 +417,7 @@ optionsButton = true
 			# BLOCK: render 256 LODs for each Chunk (width of one block). 
 			#
 			# Lowest Quality: CHUNK Highest Quality: BLOCK
-			drawResolution = "TWO_BLOCKS"
+			drawResolution = "BLOCK"
 
 	[client.worldGenerator]
 		# In what priority should fake chunks be generated outside the vanilla render distance? 
