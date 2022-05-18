@@ -13,7 +13,7 @@ realmsNotifications:true
 reducedDebugInfo:false
 showSubtitles:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -27,7 +27,7 @@ gamma:0.5
 renderDistance:5
 simulationDistance:5
 entityDistanceScaling:1.0
-guiScale:0
+guiScale:3
 particles:0
 maxFps:260
 difficulty:2
@@ -66,10 +66,10 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -114,6 +114,7 @@ key_key.autofish.open_gui:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_Build Current Structure:key.keyboard.unknown
 key_presencefootsteps.settings.key:key.keyboard.f10
+key_key.shulkertrinket.open_shulker_box:key.keyboard.b
 key_key.push_to_talk:key.keyboard.c
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.unknown
@@ -124,7 +125,6 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
-key_key.wildfire_gender.gender_menu:key.keyboard.g
 key_key.waila.config:key.keyboard.unknown
 key_key.waila.show_overlay:key.keyboard.unknown
 key_key.waila.toggle_liquid:key.keyboard.unknown
@@ -141,7 +141,7 @@ key_gui.xaero_enlarge_map:key.keyboard.z
 key_gui.xaero_waypoints_key:key.keyboard.u
 key_gui.xaero_zoom_in:key.keyboard.unknown
 key_gui.xaero_zoom_out:key.keyboard.unknown
-key_gui.xaero_new_waypoint:key.keyboard.b
+key_gui.xaero_new_waypoint:key.keyboard.n
 key_gui.xaero_display_all_sets:key.keyboard.unknown
 key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
 key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
