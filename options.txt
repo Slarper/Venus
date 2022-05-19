@@ -13,7 +13,7 @@ realmsNotifications:true
 reducedDebugInfo:false
 showSubtitles:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -112,6 +112,8 @@ key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.autofish.open_gui:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.guild.quest_screen:key.keyboard.j
+key_key.modern_industrialization.activate:key.keyboard.v
 key_Build Current Structure:key.keyboard.unknown
 key_presencefootsteps.settings.key:key.keyboard.f10
 key_key.shulkertrinket.open_shulker_box:key.keyboard.b
