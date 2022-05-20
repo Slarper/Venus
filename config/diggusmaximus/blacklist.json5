@@ -3,26 +3,8 @@
 	"isWhitelist": true,
 	// Block IDs to blacklist from being mined
 	"blacklistedBlocks": [
-		"copper_ore",
-		"gold_ore",
-		"nether_gold_ore",
-		"redstone_ore",
-		"deepslate_redstone_ore",
-		"betterend:thallasium_ore",
-		"deepslate_emerald_ore",
-		"diamond_ore",
-		"iron_ore",
-		"deepslate_copper_ore",
-		"lapis_ore",
-		"coal_ore",
-		"betterend:ender_ore",
-		"deepslate_iron_ore",
-		"deepslate_lapis_ore",
-		"deepslate_coal_ore",
-		"betterend:amber_ore",
-		"deepslate_gold_ore",
-		"emerald_ore",
-		"deepslate_diamond_ore",
-		"nether_quartz_ore"
+		"#c:ores",
+		"#c:modern_ores",
+		"#c:techreborn_ores"
 	]
 }
