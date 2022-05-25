@@ -35,7 +35,11 @@
     "enabled": true,
     "expandWhenSneak": false,
     "colors": {
-      "megane:default": 855385
+      "megane:default": 855385,
+      "minecraft:lava": 13916690,
+      "modern_industrialization:steam": 15658734,
+      "minecraft:water": 4159204,
+      "techreborn:sodium": 664182
     },
     "blacklist": []
   },
