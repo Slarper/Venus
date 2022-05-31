@@ -39,7 +39,9 @@
       "minecraft:lava": 13916690,
       "modern_industrialization:steam": 15658734,
       "minecraft:water": 4159204,
-      "techreborn:sodium": 664182
+      "techreborn:sodium": 664182,
+      "modern_industrialization:creosote": 6512720,
+      "modern_industrialization:lubricant": 16761856
     },
     "blacklist": []
   },
