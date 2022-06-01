@@ -41,7 +41,8 @@
       "minecraft:water": 4159204,
       "techreborn:sodium": 664182,
       "modern_industrialization:creosote": 6512720,
-      "modern_industrialization:lubricant": 16761856
+      "modern_industrialization:lubricant": 16761856,
+      "techreborn:mercury": 8750728
     },
     "blacklist": []
   },
