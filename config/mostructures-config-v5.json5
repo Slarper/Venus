@@ -36,7 +36,7 @@
       "spacing": 30
     },
     "jungle_pyramid": {
-      "activated": true,
+      "activated": false,
       "separation": 14,
       "spacing": 16
     },
@@ -81,7 +81,7 @@
       "spacing": 30
     },
     "big_pyramid": {
-      "activated": true,
+      "activated": false,
       "separation": 16,
       "spacing": 20
     },

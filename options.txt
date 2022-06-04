@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:false
-resourcePacks:["vanilla","spoornpacks","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","cullleaves/smartleaves","lambdabettergrass/default","file/AngelElytra.zip"]
+resourcePacks:["vanilla","spoornpacks","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","cullleaves/smartleaves","lambdabettergrass/default","file/AngelElytra.zip","file/Night Vision v1.6.zip"]
 incompatibleResourcePacks:["cullleaves/smartleaves","lambdabettergrass/default"]
 lastServer:
 lang:en_us
