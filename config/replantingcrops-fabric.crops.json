@@ -1,0 +1,37 @@
+{
+  "crops": [
+    {
+      "seed": "minecraft:wheat_seeds",
+      "block": "minecraft:wheat"
+    },
+    {
+      "seed": "minecraft:carrot",
+      "block": "minecraft:carrots"
+    },
+    {
+      "seed": "minecraft:potato",
+      "block": "minecraft:potatoes"
+    },
+    {
+      "seed": "minecraft:beetroot_seeds",
+      "block": "minecraft:beetroots"
+    },
+    {
+      "seed": "minecraft:nether_wart",
+      "block": "minecraft:nether_wart"
+    },
+    {
+      "seed": "minecraft:cocoa_beans",
+      "block": "minecraft:cocoa",
+      "withOtherPropertiesExceptAge": true
+    },
+    {
+      "seed": "farmersdelight:onion",
+      "block": "farmersdelight:onions"
+    },
+    {
+      "seed": "farmersdelight:cabbage_seeds",
+      "block": "farmersdelight:cabbages"
+    }
+  ]
+}
